@@ -43,7 +43,7 @@ using System.Windows.Forms;
                     {
                         output.Add(stack.Pop());
                     }
-                    stack.Pop(); // Удаляем (
+                    stack.Pop();
                 }
                 else
                 {
