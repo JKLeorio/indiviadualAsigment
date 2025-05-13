@@ -1,0 +1,14 @@
+C:\Users\Akira\Desktop\RPNcalculator\obj\Debug\net8.0-windows\RPNcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akira\Desktop\RPNcalculator\obj\Debug\net8.0-windows\RPNcalculator.AssemblyInfoInputs.cache
+C:\Users\Akira\Desktop\RPNcalculator\obj\Debug\net8.0-windows\RPNcalculator.AssemblyInfo.cs
+C:\Users\Akira\Desktop\RPNcalculator\obj\Debug\net8.0-windows\RPNcalculator.csproj.CoreCompileInputs.cache
+C:\Users\Akira\Desktop\RPNcalculator\bin\Debug\net8.0-windows\RPNcalculator.exe
+C:\Users\Akira\Desktop\RPNcalculator\bin\Debug\net8.0-windows\RPNcalculator.deps.json
+C:\Users\Akira\Desktop\RPNcalculator\bin\Debug\net8.0-windows\RPNcalculator.runtimeconfig.json
+C:\Users\Akira\Desktop\RPNcalculator\bin\Debug\net8.0-windows\RPNcalculator.dll
+C:\Users\Akira\Desktop\RPNcalculator\bin\Debug\net8.0-windows\RPNcalculator.pdb
+C:\Users\Akira\Desktop\RPNcalculator\obj\Debug\net8.0-windows\RPNcalculator.dll
+C:\Users\Akira\Desktop\RPNcalculator\obj\Debug\net8.0-windows\refint\RPNcalculator.dll
+C:\Users\Akira\Desktop\RPNcalculator\obj\Debug\net8.0-windows\RPNcalculator.pdb
+C:\Users\Akira\Desktop\RPNcalculator\obj\Debug\net8.0-windows\RPNcalculator.genruntimeconfig.cache
+C:\Users\Akira\Desktop\RPNcalculator\obj\Debug\net8.0-windows\ref\RPNcalculator.dll
